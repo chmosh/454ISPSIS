@@ -1,0 +1,10 @@
+C:\Шадрин\BookShadrinEkz\bin\Debug\BookShadrinEkz.exe.config
+C:\Шадрин\BookShadrinEkz\bin\Debug\BookShadrinEkz.exe
+C:\Шадрин\BookShadrinEkz\bin\Debug\BookShadrinEkz.pdb
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.csproj.AssemblyReference.cache
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.Properties.Resources.resources
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.csproj.GenerateResource.cache
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.csproj.CoreCompileInputs.cache
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.exe
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.pdb
+C:\Шадрин\BookShadrinEkz\obj\Debug\BookShadrinEkz.Form1.resources
